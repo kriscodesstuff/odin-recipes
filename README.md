@@ -1,1 +1,1 @@
-# odin-recipes
+# This is a simple recipes app that includes 3 recipes. I practiced how to use different html elements including: ul, li, different header elements, ol, a , img. I also learned how to link to different pages within my website. I also got practice with using git and writing good commit messages.
